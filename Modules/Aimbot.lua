@@ -38,7 +38,7 @@ getgenv().NitroHub.Aimbot = {
 		Sensitivity = 0, -- Animation length (in seconds) before fully locking onto target
 		ThirdPerson = false, -- Uses mousemoverel instead of CFrame to support locking in third person (could be choppy)
 		ThirdPersonSensitivity = 3,
-		TriggerKey = "MouseButton2",
+		TriggerKey = "F",
 		Toggle = false,
 		LockPart = "Head" -- Body part to lock on
 	},
@@ -216,7 +216,7 @@ function Environment.Functions:ResetSettings()
 		Sensitivity = 0, -- Animation length (in seconds) before fully locking onto target
 		ThirdPerson = false, -- Uses mousemoverel instead of CFrame to support locking in third person (could be choppy)
 		ThirdPersonSensitivity = 3,
-		TriggerKey = "MouseButton2",
+		TriggerKey = "F",
 		Toggle = false,
 		LockPart = "Head" -- Body part to lock on
 	}
