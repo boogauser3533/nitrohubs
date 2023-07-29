@@ -41,7 +41,7 @@ local MainFrame = Library:CreateWindow({
 	Name = "NitroHub",
 	Themeable = {
 		Image = "7059346386",
-		Info = "Made by SpookyGS\nPowered by Pepsi's UI Library",
+		Info = "Made by SpookyGS",
 		Credit = false
 	},
 	Background = "",
